@@ -1,0 +1,18 @@
+.time-slot-btn {
+    margin: 5px;
+  }
+
+.time-slot-btn.available {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.btn-group {
+    display: inline-block;
+}
+
+.button-spacing {
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  

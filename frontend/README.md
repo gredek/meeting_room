@@ -6,6 +6,7 @@ This is the frontend codebase for a Full Stack Meeting Room application built wi
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
+- [Configuration](#configuration)
 - [Folder Structure](#folder-structure)
 - [Dependencies](#dependencies)
 
@@ -20,6 +21,14 @@ This is the frontend codebase for a Full Stack Meeting Room application built wi
 Before running the application, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
+
+## Configuration
+
+Create a `.env` file in the root directory and set the following environment variables:
+
+```env
+REACT_APP_API_URL = http://localhost:3000/api
+```
 
 ## Folder Structure
 The project structure follows a typical React application setup:

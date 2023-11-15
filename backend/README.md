@@ -251,15 +251,16 @@ item saved to database
 
 ### Room
 
--  `name ` (String, required): Name of the room.
--  `capacity ` (Number, required): Capacity of the room.
--  `bookings ` (Array): Array of bookings.
+- `_id_ ` (ObjectId)
+- `name ` (String, required): Name of the room.
+- `capacity ` (Number, required): Capacity of the room.
 
 ### Booking
 
--  `room ` (ObjectId, ref: 'Room', required): Reference to the booked room.
--  `start_date ` (Date, required): Start date and time of the booking.
--  `end_date ` (Date, required): End date and time of the booking.
--  `email ` (String, required): Email associated with the booking.
+- `_id_ ` (ObjectId)
+- `room ` (ObjectId, required): Reference to the booked room.
+- `start_date ` (Date, required): Start date and time of the booking.
+- `end_date ` (Date, required): End date and time of the booking.
+- `booked_for ` (String, required): Email associated with the booking.
 
    

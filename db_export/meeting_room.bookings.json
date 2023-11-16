@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "6554e8e792144593ac440999"
+  },
+  "room": {
+    "$oid": "6554e84192144593ac42eee7"
+  },
+  "booked_for": "john.doe@test.com",
+  "start_date": "2025-01-01T11:00:00+02:00",
+  "end_date": "2025-01-01T13:00:00+02:00"
+},
+{
+  "_id": {
+    "$oid": "6554e8e792144593ac44099a"
+  },
+  "room": {
+    "$oid": "6554e84192144593ac42eee8"
+  },
+  "booked_for": "jane.doe@test.com",
+  "start_date": "2025-01-01T08:00:00+02:00",
+  "end_date": "2025-01-01T12:00:00+02:00"
+},
+{
+  "_id": {
+    "$oid": "6554e8e792144593ac44099b"
+  },
+  "room": {
+    "$oid": "6554e84192144593ac42eee8"
+  },
+  "booked_for": "james.doe@test.com",
+  "start_date": "2025-01-01T14:00:00+02:00",
+  "end_date": "2025-01-01T15:30:00+02:00"
+},
+{
+  "_id": {
+    "$oid": "6554e8e792144593ac44099c"
+  },
+  "room": {
+    "$oid": "6554e84192144593ac42eeea"
+  },
+  "booked_for": "john.doe@test.com",
+  "start_date": "2025-01-02T07:00:00+02:00",
+  "end_date": "2025-01-02T12:30:00+02:00"
+},
+{
+  "_id": {
+    "$oid": "6554e8e792144593ac44099d"
+  },
+  "room": {
+    "$oid": "6554e84192144593ac42eee7"
+  },
+  "booked_for": "james.doe@test.com",
+  "start_date": "2025-01-02T09:00:00+02:00",
+  "end_date": "2025-01-02T10:00:00+02:00"
+},
+{
+  "_id": {
+    "$oid": "6554e8e792144593ac44099e"
+  },
+  "room": {
+    "$oid": "6554e84192144593ac42eee8"
+  },
+  "booked_for": "james.doe@test.com",
+  "start_date": "2025-01-06T08:00:00+02:00",
+  "end_date": "2025-01-06T17:00:00+02:00"
+},
+{
+  "_id": {
+    "$oid": "6554e8e792144593ac44099f"
+  },
+  "room": {
+    "$oid": "6554e84192144593ac42eee9"
+  },
+  "booked_for": "jill.doe@test.com",
+  "start_date": "2025-01-02T07:00:00+02:00",
+  "end_date": "2025-01-02T16:30:00+02:00"
+},
+{
+  "_id": {
+    "$oid": "6554e96a2bafc68e4c683849"
+  },
+  "room": {
+    "$oid": "6554e84192144593ac42eeea"
+  },
+  "start_date": {
+    "$date": "2023-11-15T07:30:00.000Z"
+  },
+  "end_date": {
+    "$date": "2023-11-15T08:30:00.000Z"
+  },
+  "email": "test@test.com",
+  "__v": 0
+}]

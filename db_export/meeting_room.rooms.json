@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6554e84192144593ac42eee7"
+  },
+  "name": "Sirius",
+  "capacity": 2
+},
+{
+  "_id": {
+    "$oid": "6554e84192144593ac42eee8"
+  },
+  "name": "Arcturus",
+  "capacity": 4
+},
+{
+  "_id": {
+    "$oid": "6554e84192144593ac42eee9"
+  },
+  "name": "Antares",
+  "capacity": 8
+},
+{
+  "_id": {
+    "$oid": "6554e84192144593ac42eeea"
+  },
+  "name": "Canis Major",
+  "capacity": 24
+}]
